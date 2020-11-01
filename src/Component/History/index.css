@@ -1,0 +1,13 @@
+.history-button {
+    margin-bottom: 7px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #ccc;
+    width: 130px;
+}
+
+.history-button:active {
+    background-color: #888;
+    outline: none;
+}
