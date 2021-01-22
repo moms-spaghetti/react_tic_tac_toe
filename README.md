@@ -33,7 +33,7 @@ Download and install npm modules
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/moms-spaghetti/react_panel_things.git
+   git clone https://github.com/moms-spaghetti/react_tic_tac_toe.git
    ```
 2. Download the required npm modules
    ```sh
