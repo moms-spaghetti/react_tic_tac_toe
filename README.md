@@ -1,11 +1,56 @@
-# React Hackathon
+# React TicTacToe
 
-For todays hackathon we are going to practice extracting relevant information from resources that are solving the same problem but in a different way.
+I created this as a submission for the Friday hackathon with the School of Code. It converts the React tutorial class version to utilise updated hooks available in React 16.8.\
+[View Demo](https://moms-spaghetti-reacttictactoe.netlify.app/)
+<br/><br/>
 
-We will be making noughts and crosses - react style!
+## Details
 
-To have stateful components in react before hooks were invented you had to write a class component.
+Initially, due to Friday hackathon time constraints, I did not fully complete this submission on time. I refactored code after in my spare time to fully integrate React hooks into the code and further implement the timetravel feature present in the react tutorial class version. I have also spent time clearing bugs with counter selections being incorrect. This version utilises an object oriented method to clearly define the components of the tictactoe game such as the board, squares etc. I utilised basic css to flex the rendering into a fixed width and height box to create the final ui.
+<br/><br/>
 
-Your task today is to apply what you've learnt about react whilst following [this tutorial](https://reactjs.org/tutorial/tutorial.html). Extract what you need and use your knowledge of modern react to inform how you write your components.
+## Built With
 
-Happy hacking!
+- HTML
+- CSS
+- Javascript
+- Create React App
+- JSX
+- uuid
+  <br/><br/>
+
+## Getting Started
+
+Clone the repo as instructed below and download npm modules.
+<br/><br/>
+
+## Prerequisites
+
+Download and install npm modules
+<br/><br/>
+
+## Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/moms-spaghetti/react_panel_things.git
+   ```
+2. Download the required npm modules
+   ```sh
+   npm i
+   ```
+3. Start the applicataion
+   ```sh
+   npm start
+   ```
+   <br/><br/>
+
+## Usage
+
+There is no functionality on this page. Rendered items can be changed in thingData.js if required.
+<br/><br/>
+
+## Contact
+
+[Email](mailto:williamedwards36@aol.com)
+<br/><br/>
